@@ -61,4 +61,4 @@ And the sample lists retained after subsetting the data to `n` individuals for e
 
 The pipeline runs its processes in the docker containers specified in `nextflow.config`.
 
-Related samples (as defined in `data/1000G_vcf/20140625_related_individuals.txt`) as removed prior to choosing samples for inclusion in the LD calculations.
+Related samples (as defined in `data/1000G_vcf/20140625_related_individuals.txt`) are removed prior to choosing samples for inclusion in the LD calculations.
